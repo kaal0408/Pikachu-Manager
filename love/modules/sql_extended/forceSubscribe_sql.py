@@ -1,5 +1,5 @@
 from sqlalchemy import Column, String, Numeric, Boolean
-from DaisyX.modules.sql import BASE, SESSION
+from love.modules.sql import BASE, SESSION
 
 
 class forceSubscribe(BASE):
