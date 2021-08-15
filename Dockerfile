@@ -71,12 +71,12 @@ RUN python3.9 -m pip install -U pip
 # Pypi package Repo upgrade
 RUN pip3 install --upgrade pip setuptools
 
-# Copy Python Requirements to /root/DaisyX
-RUN git clone -b shiken https://github.com/Chrisdroid1/Akiro /root/DaisyX
-WORKDIR /root/DaisyX
+# Copy Python Requirements to /root/love
+RUN git clone -b shiken https://github.com/PsychoBots/Lovish-RoBoT /root/love
+WORKDIR /root/love
 
-#Copy config file to /root/DaisyX/DaisyX
-COPY ./DaisyX/sample_config.py ./DaisyX/config.py* /root/DaisyX/DaisyX/
+#Copy config file to /root/love/love
+COPY ./love/sample_config.py ./love/config.py* /root/love/love/
 
 ENV PATH="/home/bot/bin:$PATH"
 
@@ -84,4 +84,4 @@ ENV PATH="/home/bot/bin:$PATH"
 RUN pip3 install -U -r requirements.txt
 
 # Starting Worker
-CMD ["python3","-m","DaisyX"]
+CMD ["python3","-m","love"]
