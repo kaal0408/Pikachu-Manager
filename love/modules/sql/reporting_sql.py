@@ -3,7 +3,7 @@ from typing import Union
 
 from sqlalchemy import Boolean, Column, Integer, String
 
-from DaisyX.modules.sql import BASE, SESSION
+from love.modules.sql import BASE, SESSION
 
 
 class ReportingUserSettings(BASE):
