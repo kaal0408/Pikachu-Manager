@@ -1,4 +1,4 @@
-from DaisyX import telethn as tbot
+from love import telethn as tbot
 import requests
 import time
 
