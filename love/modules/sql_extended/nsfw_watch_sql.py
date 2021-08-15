@@ -1,6 +1,6 @@
 from sqlalchemy import Column, String
 
-from DaisyX.modules.sql import BASE, SESSION
+from love.modules.sql import BASE, SESSION
 
 
 class Nsfwatch(BASE):
