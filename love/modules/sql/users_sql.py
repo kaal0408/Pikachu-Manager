@@ -10,8 +10,8 @@ from sqlalchemy import (
     func,
 )
 
-from DaisyX import dispatcher
-from DaisyX.modules.sql import BASE, SESSION
+from love import dispatcher
+from love.modules.sql import BASE, SESSION
 
 
 class Users(BASE):
