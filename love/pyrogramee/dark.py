@@ -5,3 +5,4 @@ def get_arg(message):
     if " ".join(split[1:]).strip() == "":
         return ""
     return " ".join(split[1:])
+
