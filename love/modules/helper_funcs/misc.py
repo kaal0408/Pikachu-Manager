@@ -3,7 +3,7 @@ from math import ceil
 from telegram import MAX_MESSAGE_LENGTH, Bot, InlineKeyboardButton, ParseMode
 from telegram.error import TelegramError
 
-from DaisyX import NO_LOAD
+from love import NO_LOAD
 
 
 class EqInlineKeyboardButton(InlineKeyboardButton):
