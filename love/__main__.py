@@ -224,7 +224,7 @@ def start(update: Update, context: CallbackContext):
             "I am Online\n**UP-TIME**:</b> <code>{}</code>").format(
                 uptime
             ),
-            parse_mode=ParseMode.HTML,
+         parse_mode=ParseMode.HTML,
         )
 
 
