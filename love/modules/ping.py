@@ -5,9 +5,9 @@ import requests
 from telegram import ParseMode, Update
 from telegram.ext import CallbackContext, run_async
 
-from DaisyX import StartTime, dispatcher
-from DaisyX.modules.disable import DisableAbleCommandHandler
-from DaisyX.modules.helper_funcs.chat_status import sudo_plus
+from love import StartTime, dispatcher
+from love.modules.disable import DisableAbleCommandHandler
+from love.modules.helper_funcs.chat_status import sudo_plus
 
 sites_list = {
     "Telegram": "https://api.telegram.org",
