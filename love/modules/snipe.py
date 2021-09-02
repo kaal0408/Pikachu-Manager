@@ -7,10 +7,10 @@ from telegram.ext import Filters, CommandHandler
 from telegram.ext.dispatcher import run_async, CallbackContext
 
 import random
-import DaisyX.modules.sql.users_sql as sql
-from DaisyX.modules.helper_funcs.filters import CustomFilters
-from DaisyX import dispatcher, OWNER_ID, LOGGER
-from DaisyX.modules.disable import DisableAbleCommandHandler
+import love.modules.sql.users_sql as sql
+from love.modules.helper_funcs.filters import CustomFilters
+from love import dispatcher, OWNER_ID, LOGGER
+from love.modules.disable import DisableAbleCommandHandler
 USERS_GROUP = 4
 
 
