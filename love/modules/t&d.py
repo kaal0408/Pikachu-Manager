@@ -1,9 +1,9 @@
 import html
 import random
-import DaisyX.modules.tdstring as truth_and_dare_string
-from DaisyX import dispatcher
+import love.modules.tdstring as truth_and_dare_string
+from love import dispatcher
 from telegram import ParseMode, Update, Bot
-from DaisyX.modules.disable import DisableAbleCommandHandler
+from love.modules.disable import DisableAbleCommandHandler
 from telegram.ext import CallbackContext, run_async
 
 @run_async
