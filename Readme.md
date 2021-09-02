@@ -9,11 +9,11 @@
    <b>ƛsτʀ๏ Manager</b><br>
    <i>ƬӇЄ ƑƲƬƲƦƖṠƬƖƇ Manager</i>
 </p>
-<p style="color: red; align:center"> 𝚃𝙷𝙴 𝙵𝚄𝚃𝚄𝚁𝙰𝚂𝚃𝙸𝙲 𝙶𝚁𝙾𝚄𝙿 𝙼𝙰𝙽𝙰𝙶𝙴𝚁 𝙱𝙾𝚃</p>
+<h1 style="color: red"> 𝚃𝙷𝙴 𝙵𝚄𝚃𝚄𝚁𝙰𝚂𝚃𝙸𝙲 𝙶𝚁𝙾𝚄𝙿 𝙼𝙰𝙽𝙰𝙶𝙴𝚁 𝙱𝙾𝚃</h1>
 
 
 
-## <h1 align="center">Sᴛᴀᴛᴜs 𝙾𝙵 𝙱𝙾𝚃 </h1> 
+## <h1 align="left">Sᴛᴀᴛᴜs 𝙾𝙵 𝙱𝙾𝚃 </h1> 
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/AstroUB/Astro-UB)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)]( https://github.com/AstroUB/Astro-UB#copyright--license)
