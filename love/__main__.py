@@ -93,7 +93,7 @@ buttons = [
         InlineKeyboardButton(text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="Aʙᴏᴜᴛ", callback_data="masha_"),
+        InlineKeyboardButton(text="Aʙᴏᴜᴛ", callback_data="hmm"),
     ],
     [
         InlineKeyboardButton(
@@ -221,7 +221,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            "I am Online\n**UP-TIME**:</b> <code>{}</code>".format(
+            "I am Online\n**UP-TIME**:</b> <code>{}</code>").format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
@@ -354,7 +354,7 @@ def help_button(update, context):
 @run_async
 def Masha_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
-    if query.data == "masha_":
+    if query.data == "hmm":
         query.message.edit_text(
             text="""✨ This Is a powerful group management bot built to help you manage your group easily..
 
@@ -370,7 +370,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
                 [
                  [
                     InlineKeyboardButton(text="ƁƛƇƘ 🧑‍🦼", callback_data="masha_back"), 
-                    InlineKeyboardButton(text="𝚃&𝙲", callback_data="bfk"),
+                    InlineKeyboardButton(text="𝚃&𝙲", callback_data="ucant"),
                   ]
                 ]
             ),
@@ -388,9 +388,9 @@ def Masha_about_callback(update: Update, context: CallbackContext):
 @run_async
 def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
-    if query.data == "bfk":
-        query.message.edit_text(
-            text="""Hey...!\nɪ ᴀᴍ ғʀᴇᴇ ᴛᴏ ᴜsᴇ 
+    if query.data == "ucant":
+        query.message.edit_text(text="""
+              Hey...!\nɪ ᴀᴍ ғʀᴇᴇ ᴛᴏ ᴜsᴇ 
                 ʙᴜᴛ ɪᴛ ᴅᴏᴇsɴ'ᴛ ᴍᴇᴀɴs ʏᴏᴜ ᴄᴀɴ ᴅᴏ ᴀɴʏᴛʜɪɴɢ
                 •ᴅᴏɴ'ᴛ sᴘʀᴇᴀᴅ ᴘᴏʀɴᴏɢʀᴀᴘʜʏ...
                 •ᴅᴏɴ'ᴛ ᴜsᴇ ғᴏʀ ᴀʙᴜsɪᴠᴇ ᴘᴜʀᴘᴏsᴇ
@@ -404,7 +404,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Bᴀᴄᴋ🧑‍🦯", callback_data="masha_")
+                    InlineKeyboardButton(text="Bᴀᴄᴋ🧑‍🦯", callback_data="hmm")
                  ]
                 ]
             ),
