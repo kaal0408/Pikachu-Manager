@@ -1,6 +1,6 @@
 
 {
-      "name": "LovishRoBot",
+      "name": "ƛsτʀ๏ Manager",
       "description": "Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -9,7 +9,7 @@
          "manager",
          "Love"
       ],   
-   "repository": "https://github.com/PsychoBots/LovishRoBoT",
+   "repository": "https://github.com/PsychoBots/Astro-Manager",
    "addons": [
       {
          "options": {
