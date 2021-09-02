@@ -89,7 +89,7 @@ buttons = [
             text="🛸𝘼𝘿𝘿 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋✛", url="t.me/AstroManager_RoBoT?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="࿇Gɪᴛʜᴜʙ Sᴏᴜʀᴄᴇ࿇", url="https://github.com/PsychoBots/Lovish-RoBoT/"),
+        InlineKeyboardButton(text="࿇Gɪᴛʜᴜʙ Sᴏᴜʀᴄᴇ࿇", url="https://github.com/PsychoBots/Astro-Manager/"),
         InlineKeyboardButton(text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
