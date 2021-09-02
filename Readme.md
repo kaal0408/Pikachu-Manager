@@ -13,7 +13,8 @@
 
 
 
-## <h1 align="center">Sᴛᴀᴛᴜs 𝙾𝙵 𝙱𝙾𝚃 </h1> 
+## <h1 align="left">Sᴛᴀᴛᴜs 𝙾𝙵 𝙱𝙾𝚃 </h1> 
+
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/AstroUB/Astro-UB)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg?&style=flat-square)]( https://github.com/AstroUB/Astro-UB#copyright--license)
 [![Python 3.6](https://img.shields.io/badge/Python-3.9.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
