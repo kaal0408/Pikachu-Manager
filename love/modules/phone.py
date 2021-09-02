@@ -3,9 +3,9 @@ import json
 import requests
 from telegram.ext import CommandHandler, run_async
 
-from DaisyX import dispatcher
-from DaisyX.modules.helper_funcs.alternate import send_message
-from DaisyX.modules.helper_funcs.chat_status import user_admin
+from love import dispatcher
+from love.modules.helper_funcs.alternate import send_message
+from love.modules.helper_funcs.chat_status import user_admin
 
 
 @run_async
