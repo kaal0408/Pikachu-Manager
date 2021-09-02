@@ -3,7 +3,7 @@
 <p align="center"><h1 align="center"><b> ƛsτʀ๏ Manager🇮🇳</b></h1></p>
 <p align="center">
    <a href="https://t.me/AstroManager_RoBoT">
-      <img src="resources/redd.jpg" border="1px" alt="astro">
+      <img src="resources/red.jpg" border="1px" alt="astro">
       </a>
       <br>
    <b>ƛsτʀ๏ Manager</b><br>
