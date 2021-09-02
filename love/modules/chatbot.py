@@ -18,7 +18,7 @@ import json
 import os
 import html
 import requests
-import DaisyX.modules.sql.kuki_sql as sql
+import love.modules.sql.kuki_sql as sql
 
 from time import sleep
 from telegram import ParseMode
