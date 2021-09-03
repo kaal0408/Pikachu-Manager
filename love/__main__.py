@@ -91,8 +91,9 @@ buttons = [
         InlineKeyboardButton(
             text="✛𝘼𝘿𝘿 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋✛", url="t.me/AstroManager_RoBoT?startgroup=true"),
     ],
+    
+
     [
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="lobe_"),
         InlineKeyboardButton(
             text="☉𝙃𝙀𝙇𝙋 𝙈𝙀𝙉𝙐☉", callback_data="help_back"
         ),
