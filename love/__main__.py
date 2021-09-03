@@ -1,7 +1,7 @@
 # Astro
 # Psycho_Bots
 # ©Alone_loverboy
-
+# Keep the Credits Else Fuck your mom hard 
 import importlib
 import time
 import re
@@ -98,7 +98,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="࿇Gɪᴛʜᴜʙ Sᴏᴜʀᴄᴇ࿇" url="https://github.com/AstroUB/AstroManager"),
+        InlineKeyboardButton(text="࿇Gɪᴛʜᴜʙ Sᴏᴜʀᴄᴇ࿇", url="https://github.com/AstroUB/AstroManager"),
         InlineKeyboardButton(text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
 ]
