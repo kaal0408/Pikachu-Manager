@@ -92,7 +92,7 @@ buttons = [
     ],
     [
       InlineKeyboardButton(text="•Aʙᴏᴜᴛ•", callback_data="masha_"),
-      InlinekeyboardButton(text="•Dᴇᴠ•", url="https://t.me/Psycho_Bots"),
+      InlineKeyboardButton(text="•Dᴇᴠ•", url="https://t.me/Psycho_Bots"),
     ],
     [
         InlineKeyboardButton(
