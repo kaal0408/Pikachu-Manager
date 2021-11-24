@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hey....!\n
-Welcome I am Pro Group Manager👀
+Welcome I am Pro Pikachu Group Manager👀
 • I can help you to manage your groups very easily with my special features 🤗\n
 • Add me into your group\n
 • Click on **HELP** to know about my features or Use /help.
@@ -85,14 +85,14 @@ Welcome I am Pro Group Manager👀
 buttons = [
     [
         InlineKeyboardButton(
-            text="✛𝘼𝘿𝘿 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋✛", url="t.me/MISS_JASMINE_BOT?startgroup=true"),
+            text="✛𝘼𝘿𝘿 𝙏𝙊 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋✛", url="t.me/Pikachu_x_bot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="☉𝙃𝙀𝙇𝙋 𝙈𝙀𝙉𝙐☉", callback_data="help_back"),
     ],
     [
       InlineKeyboardButton(text="•Aʙᴏᴜᴛ•", callback_data="masha_"),
-      InlineKeyboardButton(text="•Dᴇᴠ•", url="https://t.me/Psycho_Bots"),
+      InlineKeyboardButton(text="•Dᴇᴠ•", url="https://t.me/PikachuX_support"),
     ],
     [
         InlineKeyboardButton(
